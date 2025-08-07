@@ -7,7 +7,7 @@ export const App = () => {
 
   return (
     <>
-      <main>
+      <main className="animate">
         <div className="'subheading">
           <h2 className="name">Aaron G Sanchez</h2>
           <p className="job-title">
